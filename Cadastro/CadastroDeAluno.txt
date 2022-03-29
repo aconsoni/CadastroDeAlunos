@@ -1,0 +1,48 @@
+Aluno, Nome =  Julia, CPF= 65878952, Curso= Veterinario, Endereço= Monteiro, 56, Camilopolis, Santo Andre, Rio Janiro, 5689200
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Julia, CPF= 65878952, Curso= Veterinario, Endereço= Monteiro, 56, Camilopolis, Santo Andre, Rio Janiro, 5689200
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  0, CPF= 0, Curso= 0, Endereço= 0, 0, 0, 0, 0, 0
+Aluno, Nome =  Julia, CPF= 65878952, Curso= Veterinario, Endereço= Monteiro, 56, Camilopolis, Santo Andre, Rio Janiro, 5689200
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Julia, CPF= 65878952, Curso= Veterinario, Endereço= Monteiro, 56, Camilopolis, Santo Andre, Rio Janiro, 5689200
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  0, CPF= 0, Curso= 0, Endereço= 0, 0, 0, 0, 0, 0
+Aluno, Nome =  1, CPF= 1, Curso= 1, Endereço= 11, 1, 1, 1, 1, 1
+Aluno, Nome =  Julia, CPF= 65878952, Curso= Veterinario, Endereço= Monteiro, 56, Camilopolis, Santo Andre, Rio Janiro, 5689200
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Julia, CPF= 65878952, Curso= Veterinario, Endereço= Monteiro, 56, Camilopolis, Santo Andre, Rio Janiro, 5689200
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  0, CPF= 0, Curso= 0, Endereço= 0, 0, 0, 0, 0, 0
+Aluno, Nome =  Julia, CPF= 65878952, Curso= Veterinario, Endereço= Monteiro, 56, Camilopolis, Santo Andre, Rio Janiro, 5689200
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Julia, CPF= 65878952, Curso= Veterinario, Endereço= Monteiro, 56, Camilopolis, Santo Andre, Rio Janiro, 5689200
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  Allany, CPF= 51265885, Curso= Adm, Endereço= Ciro, 23, São Paulo, Santo Andre, São Paulo, 9230300
+Aluno, Nome =  A, CPF= A, Curso= A, Endereço= A, 5, A, A, A, 6
+Aluno, Nome =  0, CPF= 0, Curso= 0, Endereço= 0, 0, 0, 0, 0, 0
+Aluno, Nome =  1, CPF= 1, Curso= 1, Endereço= 11, 1, 1, 1, 1, 1
+Aluno, Nome =  , CPF= 4, Curso= 4, Endereço= 4, 4, 4, 4, 4, 4
+Aluno, Nome =  7, CPF= 5, Curso= 5, Endereço= 5, 5, 5, 5, 5, 5
